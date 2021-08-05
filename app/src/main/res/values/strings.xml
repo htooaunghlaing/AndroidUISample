@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Android UI Test</string>
+    <string name="title_activity_bottom_nav">BottomNavActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="str_location">Location</string>
+    <string name="str_current_location">Current location</string>
+    <string name="str_go">Go</string>
+    <string name="str_now">Now</string>
+    <string name="str_datetime"><![CDATA[Date & Time]]></string>
+    <string name="str_one_hr">1 hr</string>
+    <string name="str_duration">Duration</string>
+    <string name="str_rent_car">Rent a car</string>
+    <string name="str_available">Available</string>
+</resources>
